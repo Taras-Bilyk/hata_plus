@@ -15,7 +15,7 @@ The site is for Hata Plus, a house trading company.
 
 ## How to Run
 Just open the `index.html` file in any modern web browser.
-<div>Or visit the site here: <a href="https://taras-bilyk.github.io/hata_plus/index.html">https://taras-bilyk.github.io/Hata_Plus/</a></div>
+<div>Or visit the site here: <a href="https://taras-bilyk.github.io/hata_plus/index.html">https://taras-bilyk.github.io/hata_plus/</a></div>
 
 
 ## Project Structure
